@@ -10,4 +10,3 @@ __pycache__/
 
 # Vector Database (Optional: keeps repo size small)
 faiss_index/
-data/
