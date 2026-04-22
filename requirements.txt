@@ -1,3 +1,12 @@
+streamlit
+langchain
+langchain-openai
+langchain-community
+langgraph
+faiss-cpu
+pypdf
+wikipedia
+python-dotenv
 aiohappyeyeballs==2.6.1
 aiohttp==3.13.5
 aiosignal==1.4.0
