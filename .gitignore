@@ -1,0 +1,13 @@
+# Environments
+.env
+.venv/
+env/
+venv/
+
+# Python caches
+__pycache__/
+*.pyc
+
+# Vector Database (Optional: keeps repo size small)
+faiss_index/
+data/
